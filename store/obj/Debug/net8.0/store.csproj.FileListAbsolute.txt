@@ -1,0 +1,14 @@
+c:\Users\joakim.lundellselan\Documents\programering\store\store\obj\Debug\net8.0\store.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\joakim.lundellselan\Documents\programering\store\store\obj\Debug\net8.0\store.AssemblyInfoInputs.cache
+c:\Users\joakim.lundellselan\Documents\programering\store\store\obj\Debug\net8.0\store.AssemblyInfo.cs
+c:\Users\joakim.lundellselan\Documents\programering\store\store\obj\Debug\net8.0\store.csproj.CoreCompileInputs.cache
+c:\Users\joakim.lundellselan\Documents\programering\store\store\bin\Debug\net8.0\store.exe
+c:\Users\joakim.lundellselan\Documents\programering\store\store\bin\Debug\net8.0\store.deps.json
+c:\Users\joakim.lundellselan\Documents\programering\store\store\bin\Debug\net8.0\store.runtimeconfig.json
+c:\Users\joakim.lundellselan\Documents\programering\store\store\bin\Debug\net8.0\store.dll
+c:\Users\joakim.lundellselan\Documents\programering\store\store\bin\Debug\net8.0\store.pdb
+c:\Users\joakim.lundellselan\Documents\programering\store\store\obj\Debug\net8.0\store.dll
+c:\Users\joakim.lundellselan\Documents\programering\store\store\obj\Debug\net8.0\refint\store.dll
+c:\Users\joakim.lundellselan\Documents\programering\store\store\obj\Debug\net8.0\store.pdb
+c:\Users\joakim.lundellselan\Documents\programering\store\store\obj\Debug\net8.0\store.genruntimeconfig.cache
+c:\Users\joakim.lundellselan\Documents\programering\store\store\obj\Debug\net8.0\ref\store.dll
